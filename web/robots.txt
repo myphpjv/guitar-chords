@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guitar-chords.space/sitemap.xml
